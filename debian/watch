@@ -1,0 +1,4 @@
+version=4
+filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/cage-$1\.tar\.gz/,\
+pgpsigurlmangle=s/archive\/v?(\d\S+)\.tar\.gz/releases\/download\/$1\/cage-$1\.tar\.gz\.sig/ \
+  https://github.com/Hjdskes/cage/releases .*/archive/v?(\d\S+)\.tar\.gz

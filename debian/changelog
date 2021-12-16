@@ -1,0 +1,5 @@
+cage (0.1.4-1) unstable; urgency=medium
+
+  * Initial packaging (Closes: #927899)
+
+ -- Birger Schacht <birger@debian.org>  Thu, 16 Dec 2021 12:19:06 +0100
