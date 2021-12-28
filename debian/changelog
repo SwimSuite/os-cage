@@ -1,3 +1,10 @@
+cage (0.1.4-2) unstable; urgency=medium
+
+  * Fix d/watch
+  * Add upstream signing key
+
+ -- Birger Schacht <birger@debian.org>  Tue, 28 Dec 2021 10:05:58 +0100
+
 cage (0.1.4-1) unstable; urgency=medium
 
   * Initial packaging (Closes: #927899)
