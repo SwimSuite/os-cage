@@ -1,3 +1,11 @@
+cage (0.1.4-3) unstable; urgency=medium
+
+  * Add patches to build with wlroots 0.15 (thanks to jbicha, Closes: #1008350)
+  * Drop filenamemangle option from d/watch
+  * Update year range in d/copyright stanza for debian/*
+
+ -- Birger Schacht <birger@debian.org>  Sun, 03 Apr 2022 19:27:37 +0200
+
 cage (0.1.4-2) unstable; urgency=medium
 
   * Fix d/watch

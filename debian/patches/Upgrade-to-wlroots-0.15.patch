@@ -6,7 +6,7 @@ Subject: Upgrade to wlroots 0.15
   been moved upstream.
 - Subsurface fields have been moved
 - Create renderer and allocator, stop using wlr_backend_get_renderer
-- Initalize output rendering
+- Initialize output rendering
 
 https://github.com/Hjdskes/cage/commit/ee748fec3adf
 ---
