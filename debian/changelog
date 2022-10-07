@@ -1,3 +1,10 @@
+cage (0.1.4-4) UNRELEASED; urgency=medium
+
+  * Remove constraints unnecessary since buster:
+    + Build-Depends: Drop versioned constraint on wayland-protocols.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Fri, 22 Apr 2022 21:46:21 -0000
+
 cage (0.1.4-3) unstable; urgency=medium
 
   * Add patches to build with wlroots 0.15 (thanks to jbicha, Closes: #1008350)
