@@ -6,7 +6,7 @@ Uploaders: Birger Schacht <birger@debian.org>
 Build-Depends:
  debhelper-compat (= 13),
  libwlroots-dev (>= 0.14.0),
- wayland-protocols (>= 1.14),
+ wayland-protocols,
  libwayland-server0,
  libpixman-1-dev,
  libxkbcommon-dev,
