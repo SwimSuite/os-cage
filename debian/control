@@ -13,8 +13,8 @@ Build-Depends:
  scdoc,
  meson,
  pkgconf,
-Standards-Version: 4.6.1.0
-Homepage: https://github.com/Hjdskes/cage
+Standards-Version: 4.6.2
+Homepage: https://github.com/cage-kiosk/cage
 Vcs-Browser: https://salsa.debian.org/swaywm-team/cage
 Vcs-Git: https://salsa.debian.org/swaywm-team/cage.git
 Rules-Requires-Root: no

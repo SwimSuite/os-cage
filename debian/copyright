@@ -1,5 +1,5 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: https://github.com/Hjdskes/cage
+Source: https://github.com/cage-kiosk/cage
 
 Files: *
 Copyright: © 2018-2020 Jente Hidskes
@@ -7,7 +7,7 @@ Copyright: © 2018-2020 Jente Hidskes
 License: Expat
 
 Files: debian/*
-Copyright: © 2021-2022 Birger Schacht <birger@debian.org>
+Copyright: © 2021-2023 Birger Schacht <birger@debian.org>
 License: Expat
 
 License: Expat

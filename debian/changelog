@@ -1,3 +1,15 @@
+cage (0.1.4+20230724-1) unstable; urgency=medium
+
+  * Package latest upstream sources (Closes: #1041851)
+  * Drop backported patches
+  * Update all references to new git repository
+  * d/control:
+   + Bump standards-version to 4.6.2 (no changes required)
+  * d/changelog:
+   + Bump years
+
+ -- Birger Schacht <birger@debian.org>  Mon, 24 Jul 2023 14:26:42 +0200
+
 cage (0.1.4-4) unstable; urgency=medium
 
   [ Debian Janitor ]
