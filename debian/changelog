@@ -1,3 +1,13 @@
+cage (0.1.5+20240127-1) unstable; urgency=medium
+
+  * Upload updated unrelease upstream sources for wlroots 0.17
+    compatibility (Closes: #1058495)
+  * d/rules: change meson option from `true` to `enabled`
+  * d/copyright: bump years
+  * d/control: set and update build-dep version constraints
+
+ -- Birger Schacht <birger@debian.org>  Sat, 27 Jan 2024 10:44:53 +0100
+
 cage (0.1.5-1) unstable; urgency=medium
 
   * New upstream release
