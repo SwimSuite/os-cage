@@ -1,3 +1,9 @@
+cage (0.1.5+20240127-2) unstable; urgency=medium
+
+  * Add xwayland to Dependencies (Closes: #1063495)
+
+ -- Birger Schacht <birger@debian.org>  Fri, 09 Feb 2024 08:32:52 +0100
+
 cage (0.1.5+20240127-1) unstable; urgency=medium
 
   * Upload updated unrelease upstream sources for wlroots 0.17
