@@ -1,3 +1,12 @@
+cage (0.2.0-1) experimental; urgency=medium
+
+  * New upstream release (Closes: #1081391)
+  * d/control: bump wlroots build dependency
+  * d/rules: drop dh_auto_configure override (it was only used for the
+    xwayland compile time option, which does not exist anymore)
+
+ -- Birger Schacht <birger@debian.org>  Mon, 07 Oct 2024 16:06:52 +0200
+
 cage (0.1.5+20240127-2) unstable; urgency=medium
 
   * Add xwayland to Dependencies (Closes: #1063495)
