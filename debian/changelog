@@ -1,3 +1,9 @@
+cage (0.2.0-1+ss24u1) swimsuite; urgency=medium
+
+  * Rebuild using bookworm~bpo
+
+ -- Huw Jones <huw@swimsuite.co.uk>  Sat, 19 Oct 2024 17:04:37 +0000
+
 cage (0.2.0-1) experimental; urgency=medium
 
   * New upstream release (Closes: #1081391)
